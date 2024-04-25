@@ -5,7 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XkpQWEmg)
 
-
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 
 ## Technologies I use in my day
@@ -18,9 +17,8 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-[![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge&logoColor=white)](#)
-[![Game Hacking](https://img.shields.io/badge/Game_Hacking-00FF7F?style=for-the-badge&logoColor=white)](#)
-
+  [![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge&logoColor=white)](#)
+  [![Game Hacking](https://img.shields.io/badge/Game_Hacking-00FF7F?style=for-the-badge&logoColor=white)](#)
 </div><br/>
 
 Enthusiast of technology, education, and transformation through programming. Passionate about reverse engineering and game hacking.
