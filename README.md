@@ -22,7 +22,7 @@
 
 
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Entusiasta de tecnologia, educação e transformação através da programação. Apaixonado por engenharia reversa e game hacking.
 
 ### Últimos videos:
 - [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
