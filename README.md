@@ -21,12 +21,10 @@
 </div><br/>
 
 
-
 Entusiasta de tecnologia, educação e transformação através da programação. Apaixonado por engenharia reversa e game hacking.
 
-### Últimos videos:
+### Últimos vídeos:
 - [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
 - [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
 - [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
 - [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
-
