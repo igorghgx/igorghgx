@@ -1,4 +1,4 @@
-## Hello! I'm igorghgx 🖐️
+## Hello! I'm igorghgx  :P
 
 [![Blog](https://img.shields.io/website?label=Painelstarnet.com&style=for-the-badge&url=https://painelstarnet.com/)](https://painelstarnet.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
