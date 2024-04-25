@@ -6,7 +6,7 @@
 [![Game Hacking](https://img.shields.io/badge/Game_Hacking-00FF7F?style=for-the-badge&logoColor=white&labelColor=black)](#)
 
 
-![Susboy GitHub stats](https://github-readme-stats.vercel.app/api?username=igorghx&show_icons=true&theme=transparent)
+![Susboy GitHub stats](https://github-readme-stats.vercel.app/api?username=igorghgx&show_icons=true&theme=transparent)
 ## Technologies I use in my day
 
  <div style="display: inline_block">
