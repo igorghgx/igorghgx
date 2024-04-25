@@ -6,7 +6,7 @@
 [![Game Hacking](https://img.shields.io/badge/Game_Hacking-00FF7F?style=for-the-badge&logoColor=white&labelColor=black)](#)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ## Technologies I use in my day
 
