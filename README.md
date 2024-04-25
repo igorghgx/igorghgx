@@ -7,7 +7,7 @@
 
 
 ![Susboy GitHub stats](https://github-readme-stats.vercel.app/api?username=igorghgx&show_icons=true&theme=dracula&count_private=true)
-![Susboy GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Susboy GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=black)
 ## Technologies I use in my day
 
  <div style="display: inline_block">
