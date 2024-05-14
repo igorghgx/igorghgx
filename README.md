@@ -1,6 +1,6 @@
 ## Hello! I'm igorghgx  :P
 
-[![Blog](https://img.shields.io/website?label=Painelstarnet.com&style=for-the-badge&url=https://painelstarnet.com/)](https://www.mediafire.com/file/sinp2jwpwno73tl/CE_BYPASS.zip/file)
+[![Blog](https://img.shields.io/website?label=Painelstarnet.com&style=for-the-badge&url=https://painelstarnet.com/)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XkpQWEmg)
 [![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-8A2BE2?style=for-the-badge&logoColor=white&labelColor=black)](#)
 [![Game Hacking](https://img.shields.io/badge/Game_Hacking-00FF7F?style=for-the-badge&logoColor=white&labelColor=black)](#)
