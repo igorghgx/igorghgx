@@ -1,4 +1,4 @@
-## Hello! I'm igorghgx  :P
+## Hello! I'm igor radamarker  :P
 
 [![Blog](https://img.shields.io/website?label=Painelstarnet.com&style=for-the-badge&url=https://painelstarnet.com/)]()
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XkpQWEmg)
